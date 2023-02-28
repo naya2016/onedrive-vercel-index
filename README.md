@@ -22,6 +22,10 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 - Takes less than 15 minutes to setup ⏱️
 - Highly customisable ⚒️
 
+
+
+
+
 🍌 More importantly, we are pretty (●'◡'●)
 
 ## Quick start
